@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Sandaruwan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width=400 src="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">
+<img align="right" alt="Coding" width=400 src="https://github.com/rudrabarad/Gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwan0917&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan0917" /> </p>
 
 - 🌱 I’m currently learning **React & Spring Boot**
