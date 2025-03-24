@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://datadragons.live/member/janith_dev](https://datadragons.live/member/janith_dev)
 
-- 💬 Ask me about **C,Java,MERN,JavaScript,PHP,MySQL,React,Spring Boot**
+- 💬 Ask me about **C,Java,JavaScript,PHP,MySQL,React,Spring Boot,MERN**
 
 - 📫 How to reach me **sandaruwanjanith95@gmail.com**
 
